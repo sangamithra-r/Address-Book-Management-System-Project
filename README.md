@@ -31,7 +31,7 @@ Ram,9876543211,ram@gmail.com
 
 
 ## Project Structure
-Address-Book-Management-System/ │ ├── main.c ├── contact.c ├── contact.h ├── file.c ├── file.h ├── README.md ├── contacts.txt 
+Address-Book-Management-System/ │ ├── main.c ├── contact.c ├── contact.h ├── file.c ├── file.h ├── README.md  
 
 
 ## Compilation
