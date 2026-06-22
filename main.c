@@ -1,8 +1,7 @@
 /*
 Project: Address Book Management System
 Author Name: SANGAMITHRA.R
-Admission Id: 26001_079
-Submission Date: 21/04/2026
+
 Description: 
 * A menu-driven application to manage contacts efficiently.
 * The system allows users to create, search, edit, delete,and display contacts in a structured format.
